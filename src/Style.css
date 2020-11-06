@@ -22,7 +22,7 @@ header {
 
     width: auto;
     height: 695px;
-    background-image: url('../assets/Artboard\ 1.png');
+    background-image: url('../src/Artboard\ 1.png');
     background-size: 100% 100%;
 }
 
@@ -59,7 +59,7 @@ oz {
     position: absolute;
     right: 0px;
     border-radius: 100px 0px 0px 100px;
-    background-image: url('../assets/xAsset\ 1.png');
+    background-image: url('../src/xAsset\ 1.png');
     opacity: 0.9;
     background-size: 100% 100%;
     width: 370px;
@@ -80,7 +80,7 @@ oz {
 }
 
 .custom-toggler .navbar-toggler-icon {
-    background-image: url("../assets/download-01.svg");
+    background-image: url("../src/download-01.svg");
 }
 
 .navbarz {
@@ -88,7 +88,7 @@ oz {
     left: 0px;
 
     border-radius: 0px 100px 100px 0px;
-    background-image: url('../assets/x1Asset\ 1.png');
+    background-image: url('../src/x1Asset\ 1.png');
     opacity: 0.9;
     background-size: 100% 100%;
     width: 600px;
@@ -176,7 +176,7 @@ oz {
 .cover {
     width: 100%;
     height: 55vmin;
-    background: url(../assets/musical-notes-earphones-with-copy-space.jpg);
+    background: url(../src/musical-notes-earphones-with-copy-space.jpg);
     background-position: -10rem -9rem;
     background-size: 150%;
     position: relative;
